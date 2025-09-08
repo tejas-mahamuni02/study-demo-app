@@ -59,10 +59,10 @@ i {
 .login-btn {
   border-radius: 5px;
   background-color: #fff;
-  background-color: #0ddc8b;
+  color: #0ddc8b;
   padding: 10px 20px;
   font-weight: 700;
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
 li {
@@ -87,8 +87,8 @@ input[type="search"] {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: white;
 }
-
 
 .btn {
   border-radius: 5px;
